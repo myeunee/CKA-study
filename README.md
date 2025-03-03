@@ -37,9 +37,9 @@ Kubernetes에 대한 기본적인 이해와 학습 의지가 있으신 분 누�
 장준혁</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/daheepk"><img src="https://avatars.githubusercontent.com/u/84828274?v=4" width="100px;" alt=""/><br /><sub><b>
 최재우</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/ebeleey"><img src="https://avatars.githubusercontent.com/u/84828274?v=4" width="100px;" alt=""/><br /><sub><b>
-허윤지</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/myeunee"><img src="https://avatars.githubusercontent.com/myeunee?v=4" width="100px;" alt=""/><br /><sub><b>
+허윤지</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/ebeleey"><img src="https://avatars.githubusercontent.com/u/84828274?v=4" width="100px;" alt=""/><br /><sub><b>
 이경준</b></sub></a><br /></td>
   </tr>
 </table>
