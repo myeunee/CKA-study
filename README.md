@@ -50,18 +50,24 @@ Kubernetes에 대한 기본적인 이해와 학습 의지가 있으신 분 누�
 
 ### Season 1 : 25.03.03 ~ 25.04.27 : CKA 스터디
 
-| Week   | Learning Content Title | Details of Learning Content                   | Completion |
-| ------ | ---------------------- | --------------------------------------------- | ---------- |
-| Week 1 | OT                     | * 스터디 진행방향 결정 & 환경 세팅<br> * 강의 결제하기 |            |
-| Week 2 | 강의 + 요약 + 실습       |                                             |            |
-| Week 3 | 강의 + 요약 + 실습       |                                             |            |
-| Week 4 | 강의 + 요약 + 실습       |                                             |            |
-| Week 5 | 강의 + 요약 + 실습       |                                             |            |
-| Week 6 | 강의 + 요약 + 실습       |                                             |            |
-| Week 7 | 모의고사 풀이            |                                             |            |
-| Week 8 | 모의고사 풀이            |                                             |            |
+| Week   | Learning Content Title | Details of Learning Content                                      | Completion |
+| ------ | ---------------------- | ---------------------------------------------------------------- | ---------- |
+| Week 1 | OT                     | * 스터디 진행방향 결정 & 환경 세팅<br> * 강의 결제하기<br> * Core Concept 수강 + 실습 |            |
+| Week 2 | 강의 + 요약 + 실습       | * Scheduling<br> * Logging & Monitoring                        |            |
+| Week 3 | 강의 + 요약 + 실습       | * Application LifeCycle Management<br> * Cluster Maintenance   |            |
+| Week 4 | 강의 + 요약 + 실습       | * Security<br> * Storage                                       |            |
+| Week 5 | 강의 + 요약 + 실습       | * Networking<br> * Design & Install a Kubernetes Cluster<br> * Install “Kubernetes the kubeadm way”<br> * Helm Basics |            |
+| Week 6 | 강의 + 요약 + 실습       | * Kustomize Basics<br> * E2E Test<br> ~                         |            |
+| Week 7 | 모의고사 풀이            |                                                                |            |
+| Week 8 | 모의고사 풀이            |                                                                |            |
 
 
 <br>
+
+- 1주차까지 강의 결제
+- 3주차까지 자격증 결제
+- 8주차 이후 시즌1 마무리까지 시험 보고 인증하기 ~
+
+
 
 ---
