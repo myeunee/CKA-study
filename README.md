@@ -1,31 +1,24 @@
 # CKA-Study
 
-## 1. Introduction
+## 📌 Introduction
 
 실무에 많이 사용하는 Kubernetes에 대해 이해하고 학습하기 위한 스터디입니다.
 
-최종적으로는 Certified Kubernetes Administrator(CKA) 자격증 취득을 목표합니다😎
+최종 목표는 **Certified Kubernetes Administrator (CKA) 자격증 취득**입니다! 😎  
 
-
----
 
 <br>
 
-### 🕑 Schedule
-- 시간: 매주 월요일 오후 10시 - 11시
-- 장소: 온라인 + 오프라인(사당)
-    - 오프라인 → 함께 모의고사 풀고 문제 풀이
+### Schedule
+- **시간**: 매주 월요일 오후 10시 - 11시  
+- **장소**: 온라인 + 오프라인(사당)  
+  - 오프라인 → 함께 모의고사 풀이 및 문제 해설  
+
 
 <br>
 
-### Who need this study?
-Kubernetes에 대한 기본적인 이해와 학습 의지가 있으신 분 누구나🙌
 
-<br>
-
----
-
-## 2. 👽 Our Squad
+## 👽 Our Squad
 
 <table>
   <tr>
@@ -46,7 +39,7 @@ Kubernetes에 대한 기본적인 이해와 학습 의지가 있으신 분 누�
 
 <br>
 
-## 3. ⛳ Curriculum (Season - 1)
+## ⛳ Curriculum (Season - 1)
 
 ### Season 1 : 25.03.03 ~ 25.04.27 : CKA 스터디
 
@@ -64,10 +57,17 @@ Kubernetes에 대한 기본적인 이해와 학습 의지가 있으신 분 누�
 
 <br>
 
-- 1주차까지 강의 결제
-- 3주차까지 자격증 결제
-- 8주차 이후 시즌1 마무리까지 시험 보고 인증하기 ~
+### 목표 일정
+- **1주차까지** 강의 신청 완료 ✅
+- **3주차까지** CKA 응시 등록  
+- **8주차 이후** 시험 응시 및 인증 완료  
 
+<br>
 
+## ✏️ How to PR
 
----
+1. 새로운 브랜치를 생성 `git checkout -b week1/hyesu`
+2. 해당 주차 폴더에 본인의 이름으로 폴더 생성 후, 정리
+3. 변경사항을 커밋: `git commit -m 'Week1: 강의 정리'`
+4. 원격 브랜치에 Push `git push origin week1/hyesu`
+5. Pull Request 생성
