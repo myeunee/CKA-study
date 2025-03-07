@@ -26,7 +26,7 @@
 👑 심혜수</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/markson-42"><img src="https://avatars.githubusercontent.com/u/84828274?v=4" width="100px;" alt=""/><br /><sub><b>
 김아연</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/eunah320"><img src="https://avatars.githubusercontent.com/u/84828274?v=4" width="100px;" alt=""/><br /><sub><b>
+    <td align="center"><a href="https://github.com/GreatJang"><img src="https://avatars.githubusercontent.com/GreatJang?v=4" width="100px;" alt=""/><br /><sub><b>
 장준혁</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/daheepk"><img src="https://avatars.githubusercontent.com/u/84828274?v=4" width="100px;" alt=""/><br /><sub><b>
 최재우</b></sub></a><br /></td>
