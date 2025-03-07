@@ -70,3 +70,4 @@
 2. 해당 주차 폴더에 본인의 이름으로 폴더 생성 후, 정리
 3. 변경사항을 커밋: `git commit -m 'Week1: 강의 정리'`
 4. 원격 브랜치에 Push `git push origin week1/hyesu`
+5. Pull Request 생성
