@@ -24,15 +24,15 @@
   <tr>
     <td align="center"><a href="https://github.com/ShimHyesu"><img src="https://avatars.githubusercontent.com/ShimHyesu?v=4" width="100px;" alt=""/><br /><sub><b>
 👑 심혜수</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/markson-42"><img src="https://avatars.githubusercontent.com/u/84828274?v=4" width="100px;" alt=""/><br /><sub><b>
+    <td align="center"><a href="https://github.com/yourzinc"><img src="https://avatars.githubusercontent.com/yourzinc?v=4" width="100px;" alt=""/><br /><sub><b>
 김아연</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/GreatJang"><img src="https://avatars.githubusercontent.com/GreatJang?v=4" width="100px;" alt=""/><br /><sub><b>
 장준혁</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/daheepk"><img src="https://avatars.githubusercontent.com/u/84828274?v=4" width="100px;" alt=""/><br /><sub><b>
+    <td align="center"><a href="https://github.com/choizeus02"><img src="https://avatars.githubusercontent.com/choizeus02?v=4" width="100px;" alt=""/><br /><sub><b>
 최재우</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/myeunee"><img src="https://avatars.githubusercontent.com/myeunee?v=4" width="100px;" alt=""/><br /><sub><b>
 허윤지</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/ebeleey"><img src="https://avatars.githubusercontent.com/u/84828274?v=4" width="100px;" alt=""/><br /><sub><b>
+    <td align="center"><a href="https://github.com/kyungjunleeme"><img src="https://avatars.githubusercontent.com/kyungjunleeme?v=4" width="100px;" alt=""/><br /><sub><b>
 이경준</b></sub></a><br /></td>
   </tr>
 </table>
