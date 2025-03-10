@@ -1,5 +1,6 @@
 # Cluster Architecture
-![image](https://github.com/user-attachments/assets/01aea33e-dfac-4664-b180-66a1c92d9c17)
+![image](https://github.com/user-attachments/assets/53f0b9ae-4db3-4ede-bdab-ddc580b88132)
+
 1. 마스터노드
 - ETCD Cluster, kube-apiserver, Kube Controller Manager, kube-scheduler
 2. 워커 노드
