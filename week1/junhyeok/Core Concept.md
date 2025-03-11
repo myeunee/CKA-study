@@ -72,4 +72,3 @@ kubectl 명령실행 - kube-api server 요청인증 및 확인 - ETCD 클러스�
     - kubectl get pods
 - Pod 자세한 정보 확인
     - kubectl describe pod myapp-pod
-
